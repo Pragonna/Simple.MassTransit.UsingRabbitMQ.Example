@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\bin\Debug\net8.0\FakeDataCreator.Library.deps.json
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\bin\Debug\net8.0\FakeDataCreator.Library.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\bin\Debug\net8.0\FakeDataCreator.Library.pdb
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.AssemblyInfo.cs
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\refint\FakeDataCreator.Library.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\FakeDataCreator.Library.pdb
+C:\Users\User\source\repos\Mock.Ticket.Handle\FakeDataCreator.Library\obj\Debug\net8.0\ref\FakeDataCreator.Library.dll

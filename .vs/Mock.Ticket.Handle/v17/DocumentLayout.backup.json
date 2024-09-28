@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3DC383-F6C6-4B87-9B05-1437D62D1DC6}|FakeDataCreator.Library\\FakeDataCreator.Library.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\fakedatacreator.library\\somedatacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3DC383-F6C6-4B87-9B05-1437D62D1DC6}|FakeDataCreator.Library\\FakeDataCreator.Library.csproj|solutionrelative:fakedatacreator.library\\somedatacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\consumer\\models\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|solutionrelative:consumer\\models\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\consumer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|solutionrelative:consumer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\web.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|solutionrelative:web.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|solutionrelative:business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\consumer\\consumers\\somemessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9FBD2-6A5B-4DFE-938C-D8462B076A60}|Consumer\\Consumer.csproj|solutionrelative:consumer\\consumers\\somemessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\business\\rabbitmq.producer\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|solutionrelative:business\\rabbitmq.producer\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|solutionrelative:web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D26A6581-FF40-40C1-BE52-36ED0725E87D}|Web.API\\Web.API.csproj|solutionrelative:web.api\\web.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|c:\\users\\user\\source\\repos\\mock.ticket.handle\\business\\models\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6422A-A7B7-4A9F-BE5C-D08471652C2E}|Business\\Business.csproj|solutionrelative:business\\models\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\App.config",
+              "RelativeDocumentMoniker": "Consumer\\App.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\App.config",
+              "RelativeToolTip": "Consumer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-26T16:29:29.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Web.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Web.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:03:46.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\ServiceRegistration.cs",
+              "RelativeToolTip": "Business\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:49:39.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Program.cs",
+              "RelativeToolTip": "Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:41:31.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeDataCreator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\FakeDataCreator.Library\\SomeDataCreator.cs",
+              "RelativeDocumentMoniker": "FakeDataCreator.Library\\SomeDataCreator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\FakeDataCreator.Library\\SomeDataCreator.cs",
+              "RelativeToolTip": "FakeDataCreator.Library\\SomeDataCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:05:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQOptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Models\\RabbitMQOptions.cs",
+              "RelativeDocumentMoniker": "Consumer\\Models\\RabbitMQOptions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Models\\RabbitMQOptions.cs",
+              "RelativeToolTip": "Consumer\\Models\\RabbitMQOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:43:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SomeMessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Consumers\\SomeMessageConsumer.cs",
+              "RelativeDocumentMoniker": "Consumer\\Consumers\\SomeMessageConsumer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Consumer\\Consumers\\SomeMessageConsumer.cs",
+              "RelativeToolTip": "Consumer\\Consumers\\SomeMessageConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:40:54.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Program.cs",
+              "RelativeDocumentMoniker": "Web.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Program.cs",
+              "RelativeToolTip": "Web.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:48:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\RabbitMQ.Producer\\RabbitMQConnection.cs",
+              "RelativeDocumentMoniker": "Business\\RabbitMQ.Producer\\RabbitMQConnection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\RabbitMQ.Producer\\RabbitMQConnection.cs",
+              "RelativeToolTip": "Business\\RabbitMQ.Producer\\RabbitMQConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:00:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T16:24:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.API",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Web.API.csproj",
+              "RelativeDocumentMoniker": "Web.API\\Web.API.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Web.API\\Web.API.csproj",
+              "RelativeToolTip": "Web.API\\Web.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T16:23:59.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RabbitMQOptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\Models\\RabbitMQOptions.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\RabbitMQOptions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Mock.Ticket.Handle\\Business\\Models\\RabbitMQOptions.cs",
+              "RelativeToolTip": "Business\\Models\\RabbitMQOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:00:10.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

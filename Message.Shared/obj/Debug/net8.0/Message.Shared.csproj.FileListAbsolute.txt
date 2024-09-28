@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\bin\Debug\net8.0\Message.Shared.deps.json
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\bin\Debug\net8.0\Message.Shared.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\bin\Debug\net8.0\Message.Shared.pdb
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\bin\Debug\net8.0\FakeDataCreator.Library.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\bin\Debug\net8.0\FakeDataCreator.Library.pdb
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message..B0EA98CA.Up2Date
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\refint\Message.Shared.dll
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\Message.Shared.pdb
+C:\Users\User\source\repos\Mock.Ticket.Handle\Message.Shared\obj\Debug\net8.0\ref\Message.Shared.dll

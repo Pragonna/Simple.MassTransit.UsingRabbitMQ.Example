@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Message.Shared/1.0.0": {
+        "dependencies": {
+          "FakeDataCreator.Library": "1.0.0"
+        },
+        "runtime": {
+          "Message.Shared.dll": {}
+        }
+      },
+      "FakeDataCreator.Library/1.0.0": {
+        "runtime": {
+          "FakeDataCreator.Library.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Message.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakeDataCreator.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

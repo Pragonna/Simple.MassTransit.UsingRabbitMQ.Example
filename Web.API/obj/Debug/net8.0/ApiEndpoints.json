@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Web.API.Controllers.ValuesController",
+    "Method": "Request",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
